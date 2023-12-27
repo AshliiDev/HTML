@@ -1,0 +1,19 @@
+.navbar {
+    padding: 20px 6px; 
+    }
+
+    body {
+      padding-top: 60px; 
+    }
+
+    .header {
+      text-align: center;
+      padding: 40px 0;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px 0;
+    }
+    .card {
+    margin-bottom: 20px;
+    }

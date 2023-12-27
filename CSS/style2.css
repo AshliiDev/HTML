@@ -1,0 +1,28 @@
+.navbar {
+    padding: 20px 6px; 
+    }
+
+    body {
+      padding-top: 60px; 
+    }
+
+    .header {
+      text-align: center;
+      padding: 40px 0;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px 0;
+    }
+    
+    .login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
